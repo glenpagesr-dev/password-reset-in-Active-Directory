@@ -39,7 +39,7 @@ A hands-on lab demonstrating the setup and configuration of a Password Reset in 
 2. This step is typically required when multiple failed authentication attempts have triggered an account lockout.
 
 # Step 6: Confirm and Apply Changes
-
+![image alt](https://github.com/glenpagesr-dev/password-reset/blob/7d71485060b5a0774a9f2a8a7c6ee94154975f9f/changed.png)
 1. Click OK to apply the changes.
 
    The password reset is processed immediately.

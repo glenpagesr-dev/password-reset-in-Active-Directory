@@ -19,7 +19,7 @@ A hands-on lab demonstrating the setup and configuration of a Password Reset in 
 2. Locate and select the target user account.
 
 # Step 3: Reset the User Password
-
+![image alt](https://github.com/glenpagesr-dev/password-reset/blob/8dbc50ce38dcf2d927b173159880169961a1715b/reset%20password.png)
 1. Right-click the selected user account.
 
 2. Select Reset Password from the context menu.

@@ -7,7 +7,7 @@ https://www.loom.com/share/67e9403709dd4626ab02b9ee67819859
 A hands-on lab demonstrating the setup and configuration of a Password Reset in Active Directory
 
 # Step 1: Open Active Directory Users and Computers
-
+![image alt](https://github.com/glenpagesr-dev/password-reset/blob/9fbd9ce03be85219cbbc30396b75f17ef9cf7483/Pass%20AD%20users.png)
 1. From the virtual machine, open the Start Menu.
 
 2. Navigate to Windows Administrative Tools → Active Directory Users and Computers

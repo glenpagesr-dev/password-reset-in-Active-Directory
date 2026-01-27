@@ -33,7 +33,7 @@ A hands-on lab demonstrating the setup and configuration of a Password Reset in 
 3. Ensure both entries match and comply with the organization’s password complexity policies.
 
 # Step 5: Unlock the User Account (If Applicable)
-
+![image alt](https://github.com/glenpagesr-dev/password-reset/blob/4eb90926cc267a765d75c64c478577acc83f16ee/Unlock.png)
 1. If the user account is locked out, select the option to Unlock the user’s account.
 
 2. This step is typically required when multiple failed authentication attempts have triggered an account lockout.

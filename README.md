@@ -13,7 +13,7 @@ A hands-on lab demonstrating the setup and configuration of a Password Reset in 
 2. Navigate to Windows Administrative Tools → Active Directory Users and Computers
 
 # Step 2: Locate the User Account
-
+![image alt](https://github.com/glenpagesr-dev/password-reset/blob/54c2d48972d42a0e7667d4fd08a18258f363dbda/user%20account.png)
 1. In the ADUC console, browse to the appropriate Organizational Unit (OU).
 
 2. Locate and select the target user account.

@@ -2,7 +2,7 @@
 
 https://www.loom.com/share/67e9403709dd4626ab02b9ee67819859
 
-# password-reset
+# password-reset in Active Directory
 
 A hands-on lab demonstrating the setup and configuration of a Password Reset in Active Directory
 
